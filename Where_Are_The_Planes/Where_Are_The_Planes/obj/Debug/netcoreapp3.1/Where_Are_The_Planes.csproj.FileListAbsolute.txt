@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\bin\Debug\netcoreapp3.1\Where_Are_The_Planes.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\bin\Debug\netcoreapp3.1\Where_Are_The_Planes.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\bin\Debug\netcoreapp3.1\Where_Are_The_Planes.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\bin\Debug\netcoreapp3.1\Where_Are_The_Planes.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\bin\Debug\netcoreapp3.1\Where_Are_The_Planes.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\bin\Debug\netcoreapp3.1\Where_Are_The_Planes.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\obj\Debug\netcoreapp3.1\Where_Are_The_Planes.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\obj\Debug\netcoreapp3.1\Where_Are_The_Planes.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\obj\Debug\netcoreapp3.1\Where_Are_The_Planes.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\obj\Debug\netcoreapp3.1\Where_Are_The_Planes.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\obj\Debug\netcoreapp3.1\Where_Are_The_Planes.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\obj\Debug\netcoreapp3.1\Where_Are_The_Planes.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Where-Are-The-Planes\Where_Are_The_Planes\Where_Are_The_Planes\obj\Debug\netcoreapp3.1\Where_Are_The_Planes.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Where_Are_The_Planes/1.0.0": {
+        "runtime": {
+          "Where_Are_The_Planes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Where_Are_The_Planes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
